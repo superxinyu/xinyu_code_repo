@@ -1,0 +1,2 @@
+关键词：torch、cnn、pooling
+torch下通过模拟数据分析池化过程

@@ -1,0 +1,4 @@
+关键词：transformers、bert、text classification、adamw、chinese
+transformers下BERT中文文本分类
+数据为THUCNews数据集中抽取出的20万条新闻标题，共十个类别
+采用了退化学习率、梯度剪辑和早退

@@ -1,0 +1,3 @@
+关键词：pytorch、pyplot、nn
+一个简单的逻辑回归实例来展示神经网络的拟合效果
+数据来自sklearn.datasets.make_moons会生成包含两个半圆形的数据集

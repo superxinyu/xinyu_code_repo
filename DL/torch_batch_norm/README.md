@@ -1,0 +1,2 @@
+关键词：pytorch、batchnormalization
+torch框架下batch_normalization计算的两种实现方法方法

@@ -1,0 +1,4 @@
+关键词：torch、attention、transformer、encoder、decoder、multihead attention、translation、chinese english translation、pyplot
+torch下Transformer实现中英文翻译
+数据为自己的中英文平行语料
+包括单头、多头注意力机制、position embedding、encoder、decoder的实现
