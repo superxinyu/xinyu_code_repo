@@ -1,0 +1,3 @@
+关键词：numpy、pyplot、binomial distribution
+
+numpy实现二项分布并通过plt可视化

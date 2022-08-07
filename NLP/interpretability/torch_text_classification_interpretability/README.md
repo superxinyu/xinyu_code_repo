@@ -1,0 +1,2 @@
+关键词：torch、interpretability、textcnn、text classification interpretability、captum
+textcnn实现文本分类模型实例中，从模型的可解释性角度分析模型，并实现句子中单词的可解释性
